@@ -1,0 +1,27 @@
+
+
+https://www.kaggle.com/datasets/thedevastator/us-baby-names-by-year-of-birth?select=babyNamesUSYOB-full.csv (Links para um site externo.)
+
+usarei o CSV de nomes mais populares entre 1880 - 2015
+
+1)Nome com mais ocorrencias em um determinado ano?
+
+utilizei da estrutura de vetor de lista para achar o ano mostrar o nome com maior
+ocorrencia
+
+2) Todos os nomes de um certo ano?
+
+utilizei da estrutura de vetor de lista para achar o ano e mostrar o nome de todos
+nascidos naquele ano
+ 
+os dados vindos do csv apresentam 5 campos:
+
+indice
+ano nascimento
+nome
+sexo
+quantidade
+
+
+
+no qual ja vinha ordenado por ano nascimento
